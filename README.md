@@ -12,9 +12,9 @@
 <a href="https://github.com/MRSHABAN40/SHABAN-MD-V5/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MRSHABAN40/SHABAN-MD-V5?style=social"></a>
 <a href="https://github.com/MRSHABAN40/SHABAN-MD-V5/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MRSHABAN40/SHABAN-MD-V5?label=Watching&style=social"></a>
 <!-- Repo Size -->
-  <img src="https://img.shields.io/github/repo-size/MRSHABAN40/SHABAN-MD-V5?color=DeepPink&label=Repo%20Size&style=plastic" alt="Repo Size">
+  <img src="https://img.shields.io/github/repo-size/MRSHABAN40/SHABAN-MD-V5?color=deeppink&label=Repo%20Size&style=plastic" alt="Repo Size">
   <!-- Developer -->
-  <img src="https://img.shields.io/static/v1?label=OWNER&message=MR%20SHABAN&color=DeepPink&style=plastic" alt="Developer Badge">
+  <img src="https://img.shields.io/static/v1?label=OWNER&message=MR%20SHABAN&color=blue&style=plastic" alt="Developer Badge">
 </p>        
  
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -39,10 +39,10 @@ href="https://github.com/MRSHABAN40/SHABAN-MD-V5/graphs/commit-activity"><img he
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=🙏+𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢+⤵️)](https://git.io/typing-svg)
  <p align="lift">
- <a href="https://github.com/MRSHABAN40/SHABAN-MD-V5/fork"><img title="SHABAN-MD-V5" src="https://img.shields.io/badge/FORK-SHABAN MD V5-h?color=DeepPink&style=for-the-badge&logo=github"></a>
+ <a href="https://github.com/MRSHABAN40/SHABAN-MD-V5/fork"><img title="SHABAN-MD-V5" src="https://img.shields.io/badge/FORK-SHABAN MD V5-h?color=aqua&style=for-the-badge&logo=github"></a>
   
 <p align="lift">
-<a href="https://pairv5-65029392752f.herokuapp.com/"><img height= "25" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1-blue?style=for-the-badge&logo=heroku"></a>
+<a href="https://mr-shaban-web.tiiny.site"><img height= "25" title="Author" src="https://img.shields.io/badge/GET SESSION SITE-1-Purple?style=for-the-badge&logo=heroku"></a>
 <p/>
 
 <p align="lift">
@@ -60,7 +60,7 @@ href="https://github.com/MRSHABAN40/SHABAN-MD-V5/graphs/commit-activity"><img he
   </div>
  
 [![Follow My WhatsApp Channel](https://img.shields.io/static/v1?label=Follow%20My%20WhatsApp%20Channel&message=follow&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O) 
-[![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/MRSHABAN40)
+[![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=GitHub&color=008080&style=for-the-badge&logo=github&logoColor=white)](https://github.com/MRSHABAN40)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
