@@ -67,21 +67,3 @@ href="https://github.com/MRSHABAN40/SHABAN-MD-V5/graphs/commit-activity"><img he
 
 
 <h1> ℕ𝕆 𝕃𝕆𝕍𝔼 💔 ℕ𝕆 𝕊𝕋ℝ𝔼𝕊𝕊 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> </h1>
-
-
-<h6>Authors</h6>
-
-<div align="center">
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  </div>
-
-| [![Mr Shaban](https://github.com/MRSHABAN40.png?lenght=60width=60)](https://github.com/MRSHABAN40) |
-|----|
-| [ MR SHABAN ](https://wa.me/message/L5NHEHHAQUQZF1) |
-| OWNER CONTACT |
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  </div>
-
-<br>
-
