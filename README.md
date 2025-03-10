@@ -24,7 +24,7 @@
 
 | Menu ⁠➜ | Status Save Sender | Group | Pair | Download | Antidelete | Ai | Viewonce | Fun | Status Reply | Status Reacts | Convert | Autoreacts |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Work ➜ |x| ✅ | ✅ | ✅ | ✅  | ✅ |x| ✅ | ✅ | ✅ | ✅ | ✅ |
+| Work ➜ |Coming Soon| ✅ | ✅ | ✅ | ✅  | ✅ |Coming Soon| ✅ | ✅ | ✅ | ✅ | ✅ |
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
