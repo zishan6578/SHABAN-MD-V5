@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=8A2BE2&center=true&width=1000&height=200&lines=SHABAN-MD" alt="Typing SVG" /></a>
   </div>
-<a><img src='https://i.ibb.co/CsWcg9jq/shaban-md.jpg'/></a>
+<a><img src='https://i.ibb.co/b5WCv61V/shaban-md.jpg'/></a>
 
 <p align="center">
   <a href="https://github.com/MRSHABAN40"><img title="Developer" src="https://img.shields.io/badge/Author-SHABAN%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
