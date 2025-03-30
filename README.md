@@ -27,9 +27,9 @@
 
 ***BOT FEATURE ⤵️***
 
-| Menu ⁠➜ | Status Save Sender | Group | Pair | Download | Antidelete | Ai | Viewonce | Fun | Status Reply | Status Reacts | Convert | Autoreacts |
+| Menu ⁠➜ | Status Save | Group | Pair | Download | Antidelete | Ai | Viewonce | Fun | Status Reply | Status Reacts | Convert | Autoreacts |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Work ➜ |Coming Soon| ✅ | ✅ | ✅ | ✅  | ✅ |Coming Soon| ✅ | ✅ | ✅ | ✅ | ✅ |
+| Work ➜ | ✅ | ✅ | ✅ | ✅ | ✅  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
   
 <a
