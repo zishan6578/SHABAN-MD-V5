@@ -27,7 +27,7 @@
 
 ***BOT FEATURE ⤵️***
 
-| Menu ⁠➜ | Status Save | Group | Pair | Download | Antidelete | Ai | Viewonce | Fun | Status Reply | Status Reacts | Convert | Autoreacts |
+| Menu ⁠➜ | Status Save | Group | Pair | Download | Antidelete | Ai | Viewonce | Fun | Status Reply | Status Reacts | HeartReacts | Autoreacts |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Work ➜ | ✅ | ✅ | ✅ | ✅ | ✅  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
@@ -45,8 +45,49 @@ href="https://github.com/MRSHABAN40/SHABAN-MD-V5/graphs/commit-activity"><img he
 <a href="https://rendar-pair.onrender.com/"><img height= "25" title="Author" src="https://img.shields.io/badge/GET PAIR-1-622F22?style=for-the-badge&logo=render"></a>
 <p/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/MRSHABAN40/SHABAN-MD)
+
+## _📡 DEPLOYMENT_
+
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/MRSHABAN40/SHABAN-MD/tree/main" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://host.talkdrove.com/share-bot/47" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=MRSHABAN40/SHABAN-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
+      <td><a href="https://app.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+  </table>
+</div>
+
+## ⚠️ _WARNING !_
+
+<div style="background-color: #000000; border-left: 5px solid #ff00ff; padding: 10px; border-radius: 0 15px 15px 0; box-shadow: 0 0 15px #ff00ff;">
+  <h3 style="color: #00ffff; font-family: 'Orbitron', sans-serif;">DISCLAIMER</h3>
+  <p style="color: #ffffff;">This bot is not affiliated with WhatsApp Inc. Use at your own risk. Misuse may result in account bans.</p>
+</div>
+
+## 🗃️ _PROJECT ARCHITECTS_
+<div align="center">
+  <a href="https://github.com/MRSHABAN40">
+    <img src="https://github-readme-stats.vercel.app/api?username=MRSHABAN40&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
+  </a>
+</div>
+
+## 🤖 _SHABAN-MD STATUS_
+
+```diff
++ Project Status: Active
+! Version: 3.0.0 Neon Edition
+# License: MIT
+```
+
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
