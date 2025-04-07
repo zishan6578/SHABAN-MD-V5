@@ -39,11 +39,13 @@ href="https://github.com/MRSHABAN40/SHABAN-MD-V5/graphs/commit-activity"><img he
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  <p align="lift">
- <a href="https://github.com/MRSHABAN40/SHABAN-MD-V5/fork"><img title="SHABAN-MD-V5" src="https://img.shields.io/badge/FORK-SHABAN MD V5-h?color=green&style=for-the-badge&logo=github"></a>
+ <a href="https://github.com/MRSHABAN40/SHABAN-MD-V5/fork"><img title="SHABAN-MD-V5" src="https://img.shields.io/badge/FORK-SHABAN MD V5-h?color=008000&style=for-the-badge&logo=github"></a>
+ 
 
-<p align="lift">
-<a href="https://rendar-pair.onrender.com/"><img height= "25" title="Author" src="https://img.shields.io/badge/GET PAIR-1-622F22?style=for-the-badge&logo=render"></a>
-<p/>
+  > **⚠️ OPTION ONE**
+  <a href='https://sk-shaban-pair-7c36e562dcf5.herokuapp.com/' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE_1-800080?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a></br>
 
 
 ## _📡 DEPLOYMENT_
@@ -51,8 +53,8 @@ href="https://github.com/MRSHABAN40/SHABAN-MD-V5/graphs/commit-activity"><img he
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/MRSHABAN40/SHABAN-MD/tree/main" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
-      <td><a href="https://host.talkdrove.com/share-bot/47" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/MRSHABAN40/SHABAN-MD/tree/main" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
+      <td><a href="https://host.talkdrove.com/share-bot/47" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-A52A2A?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
       <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=MRSHABAN40/SHABAN-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
