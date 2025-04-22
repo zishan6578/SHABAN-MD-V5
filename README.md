@@ -27,9 +27,9 @@
 
 ***BOT FEATURE ⤵️***
 
-| Menu ⁠➜ | Status Save | Group | Pair | Download | Antidelete | Ai | Viewonce | Fun | Status Reply | Status Reacts | HeartReacts | Autoreacts |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Work ➜ | ✅ | ✅ | ✅ | ✅ | ✅  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Menu ⁠➜ | Status Save | Group | Pair | Download | Antidelete | Ai | Viewonce | Fun | Status Reply | Status Reacts | HeartReacts | Autoreacts | Anticall 
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Work ➜ | ✅ | ✅ | ✅ | ✅ | ✅  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
   
 <a
@@ -43,7 +43,7 @@ href="https://github.com/MRSHABAN40/SHABAN-MD-V5/graphs/commit-activity"><img he
  
 
   > **⚠️ OPTION ONE**
-  <a href='https://panel-pair-ag64.onrender.com/' target="_blank">
+  <a href='https://panel-pair-bf1q.onrender.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-800080?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
 
