@@ -42,13 +42,13 @@ href="https://github.com/MRSHABAN40/SHABAN-MD-V5/graphs/commit-activity"><img he
  <a href="https://github.com/MRSHABAN40/SHABAN-MD-V5/fork"><img title="SHABAN-MD-V5" src="https://img.shields.io/badge/FORK-SHABAN MD V5-h?color=008000&style=for-the-badge&logo=github"></a>
  
 
-  **⚠️ GET SESSION SITE 1**
+  **⚠️ WORKING QR CODE 1**
   
   <a href='https://pair888.onrender.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE-800080?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
 
-   **⚠️ GET SESSION SITE 2**
+   **⚠️ WORKING QR CODE 2**
    
   <a href='https://pair999-0046b52d6ac2.herokuapp.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE-FF0000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
