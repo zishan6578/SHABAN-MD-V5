@@ -1,7 +1,7 @@
 {
   "name": "SHABAN-MD",
-  "description": "Javascript WhatsApp bot made by MR-SHABAN",
-  "logo": "https://i.ibb.co/qYtzFsVp/shaban-md.jpg",
+  "description": "Javascript WhatsApp bot made by 𝐌𝐑 𝐒𝐇𝐀𝐁𝐀𝐍",
+  "logo": "https://i.ibb.co/mCfPfmJL/shaban-md.jpg",
   "keywords": ["SHABAN-MD"],
   "success_url": "/",
 
@@ -16,7 +16,13 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "SHABAN-MD"
+      "value": "SHABAN-MD︎"
+    },
+    
+    "MENU_IMAGE_URL": {
+      "description": "add url for mention reply and menu if want.",
+      "required": true,
+      "value": "https://i.ibb.co/j9G5tmNM/shaban-md.jpg"
     }, 
       
     "PREFIX": {
@@ -27,7 +33,7 @@
     
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
-      "required": true,
+      "required": false,
       "value": "public"
       
     },
@@ -35,25 +41,31 @@
     
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
-      "required": false,
+      "required": true,
+      "value": "false"  
+    },
+    
+    "AUTO_BIO": {
+      "description": "Make it true if want auto about changing.",
+      "required": true,
       "value": "false"  
     },    
   
     "AUTO_VOICE": {
       "description": "Make it true if want automatic voice reply .",
-      "required": false,
+      "required": true,
       "value": "false"
     }, 
 
     "AUTO_REPLY": {
       "description": "Make it true if you want automatic reply.",
-      "required": false,
+      "required": true,
       "value": "false"
     }, 
 
     "AUTO_STICKER": {
       "description": "Make it true if you want automatic sticker.",
-      "required": false,
+      "required": true,
       "value": "false"
     }, 
 
@@ -79,54 +91,53 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🪩SEEN YOUR STATUS SHABAN-MD🪩*"
+      "value": "*SᴇᴇN YᴏᴜʀE SᴛᴀᴛᴜS JᴜsT NᴏW Sʜᴀʙᴀɴ-Mᴅ 𓅓*"
    
      }, 
-    
-    "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
-      "required": false,
-      "value": "MR-SHABAN"
-}, 
-
-    "OWNER_NUMBER": {
-      "description": "put the owner number for bot.",
-      "required": true,
-      "value": "923043788282"
-
-    }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHABAN-MD"
+      "value": "SHABAN-MD V5"
 
-      }, 
-
+     },
+     
+    "DELETE_LINK": {
+      "description": "Make it true if you want bot auto remove group link.",
+      "required": false,
+      "value": "false"
+    }, 
+    
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "true"
-      
+      "value": "false"
     },
     
-    "ANTI_BAD": {
+    "ADMIN_EVENTS": {
+      "description": "make it true if want know who promote or demote a member .",
+      "required": true,
+      "value": "false"
+    },
+
+    "WELCOME": {
+      "description": "make it true if want goodbye and welcome message in groups.",
+      "required": true,
+      "value": "false"
+    },
+     
+    "ANTI_CALL": {
+      "description": "Make it true if you want bot auto call rejected.",
+      "required": true,
+      "value": "false"
+      
+    }, 
+    
+    "ANTI_BAD_WORD": {
       "description": "Make it true if you want bot auto delete bad words.",
       "required": true,
       "value": "false"
     }, 
-
-     "DESCRIPTION": {
-      "description": "add caption for menu and other",
-      "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ Sʜᴀʙᴀɴ*"
-    },
-
-      "DELETE_LINKS": {
-      "description": "remove links from group automatically without removing member",
-      "required": true,
-      "value": "false"
-    },
     
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
@@ -162,7 +173,7 @@
     "ANTI_DEL_PATH": {
       "description": "change it to -same- if you want to resend deleted message in same chat",
       "required": false,
-      "value": "same"
+      "value": "log"
     }, 
 
     "READ_MESSAGE": {
