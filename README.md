@@ -68,6 +68,49 @@ href="https://github.com/MRSHABAN40/SHABAN-MD-V5/graphs/commit-activity"><img he
   </table>
 </div>
 
+-------------
+
+**NOTE:-** ***✠ YOU CAN ALSO COPY THIS CODE IF CHANNEL CODE EXPIRED FOR FREE DEPLOYMENT OF SHABAN-MD ✠***
+
+```
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
+```
+
+-------
+
+
 ## ⚠️ _WARNING !_
 
 <div style="background-color: #000000; border-left: 5px solid #ff00ff; padding: 10px; border-radius: 0 15px 15px 0; box-shadow: 0 0 15px #ff00ff;">
