@@ -49,7 +49,7 @@ href="https://github.com/MRSHABAN40/SHABAN-MD-V5/graphs/commit-activity"><img he
   </a></br>
 
 
-## _📡 DEPLOYMENT ERROR FIXED_
+## _📡 DEPLOYMENT_
 
 <div align="center">
   <table>
