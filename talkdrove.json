@@ -3,12 +3,12 @@
     "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Shaban",
     "logo": "https://i.ibb.co/qYtzFsVp/shaban-md.jpg",
     "keywords": ["bot"],
-    "documentation-link": "https://vip-pair-f04a7c474123.herokuapp.com/",
+    "documentation-link": "https://pti-pair.onrender.com/",
     "owner-verification": "talkdrovelover@gmail.com",
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with SHABAN-MD~  or get session id from here,  https://vip-pair-f04a7c474123.herokuapp.com/pair",
+        "description": "Put your SESSION_ID here. Make sure it starts with SHABAN-MD~  or get session id from here,  https://pti-pair.onrender.com/",
         "value":"",
         "required": true
         
@@ -174,10 +174,16 @@
       },
     
     "ANTI_DEL_PATH": {
-      "description": "change it to -same- if you want to resend deleted message in same chat",
-      "required": false,
-      "value": "log"
-    }, 
+      "description": "change it to -same- if you want to resend deleted message in same chat othwise inbox",
+      "required": true,
+      "value": "inbox"
+    },
+    
+    "ANTI_DELETE": {
+      "description": "set true for show deleted messages.",
+      "required": true,
+      "value": "false"  
+    },
 
     "READ_MESSAGE": {
       "description": "Make it true if you want bot read your all sms just now.",
