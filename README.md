@@ -8,7 +8,9 @@
 
 <div align="center">
 
----------
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+SHABAN+MD+BETTER+OPTION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+developed+by+MR+SHABAN;🚀+SHABAN-MD+V5+Solutions;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
+</h1>
   
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-9ACD32?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O)
 </div>
@@ -124,10 +126,18 @@ jobs:
 
 ## 🗃️ _PROJECT ARCHITECTS_
 <div align="center">
+  <!-- Glowing Header -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
   <a href="https://github.com/MRSHABAN40">
     <img src="https://github-readme-stats.vercel.app/api?username=MRSHABAN40&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
   </a>
 </div>
+<!-- Glowing Header -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
 ## 🤖 _SHABAN-MD STATUS_
 
