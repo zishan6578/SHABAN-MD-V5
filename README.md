@@ -27,7 +27,7 @@
 </p> 
 
 <p align="center">
-  <a href="https://github.com/MRSHABAN40/SHABAN-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0.0-cyan.svg?style=for-the-badge&logo=aqua" /></a>
+  <a href="https://github.com/MRSHABAN40/SHABAN-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v5-cyan.svg?style=for-the-badge&logo=aqua" /></a>
 </p>
 
 
@@ -143,8 +143,8 @@ jobs:
 
 ```diff
 + Project Status: Active
-! Version: 3.0.0 Neon Edition
-# License: MIT
+! Version: V.5 Neon Edition
+# License: BSD 3-Clause
 ```
 
 
