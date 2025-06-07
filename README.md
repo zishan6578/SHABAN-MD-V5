@@ -7,9 +7,13 @@
 </p>
 
 <div align="center">
+
+---------
   
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-9ACD32?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O)
 </div>
+
+---------
 
  <p align="center"><img src="https://profile-counter.glitch.me/{SHABAN-MD}/count.svg" alt="MRSHABAN40 :: Visitor's Count" old_src="https://profile-counter.glitch.me/{MRSHABAN40}/count.svg" /></p>
 
